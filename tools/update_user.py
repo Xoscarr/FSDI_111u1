@@ -4,6 +4,7 @@ from random import choice
 UPDATED_USER ={
     "first_name":"Angel",
     "last_name": "Garcia",
+    "active": 0, 
     "hobbies": choice(
         [
             "Golf",
